@@ -1,0 +1,14 @@
+C:\Users\Володимир\source\repos\Лаб 6 ! 2 !\Лаб 6 ! 2 !\bin\Debug\Лаб 6 ! 2 !.exe.config
+C:\Users\Володимир\source\repos\Лаб 6 ! 2 !\Лаб 6 ! 2 !\bin\Debug\Лаб 6 ! 2 !.exe
+C:\Users\Володимир\source\repos\Лаб 6 ! 2 !\Лаб 6 ! 2 !\bin\Debug\Лаб 6 ! 2 !.pdb
+C:\Users\Володимир\source\repos\Лаб 6 ! 2 !\Лаб 6 ! 2 !\obj\Debug\Лаб 6 ! 2 !.csproj.AssemblyReference.cache
+C:\Users\Володимир\source\repos\Лаб 6 ! 2 !\Лаб 6 ! 2 !\obj\Debug\Лаб_6___2__.fMain.resources
+C:\Users\Володимир\source\repos\Лаб 6 ! 2 !\Лаб 6 ! 2 !\obj\Debug\Лаб_6___2__.fPlane.resources
+C:\Users\Володимир\source\repos\Лаб 6 ! 2 !\Лаб 6 ! 2 !\obj\Debug\Лаб_6___2__.Properties.Resources.resources
+C:\Users\Володимир\source\repos\Лаб 6 ! 2 !\Лаб 6 ! 2 !\obj\Debug\Лаб 6 ! 2 !.csproj.GenerateResource.cache
+C:\Users\Володимир\source\repos\Лаб 6 ! 2 !\Лаб 6 ! 2 !\obj\Debug\Лаб 6 ! 2 !.csproj.CoreCompileInputs.cache
+C:\Users\Володимир\source\repos\Лаб 6 ! 2 !\Лаб 6 ! 2 !\obj\Debug\Лаб 6 ! 2 !.exe
+C:\Users\Володимир\source\repos\Лаб 6 ! 2 !\Лаб 6 ! 2 !\obj\Debug\Лаб 6 ! 2 !.pdb
+C:\Users\User\Desktop\lab06\Лаб 6 ! 2 !\obj\Debug\Лаб 6 ! 2 !.csproj.AssemblyReference.cache
+C:\Users\User\Desktop\lab06\Лаб 6 ! 2 !\obj\Debug\Лаб 6 ! 2 !.exe
+C:\Users\User\Desktop\lab06\Лаб 6 ! 2 !\obj\Debug\Лаб 6 ! 2 !.pdb
